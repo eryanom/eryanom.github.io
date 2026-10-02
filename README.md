@@ -1,25 +1,36 @@
-# eryanom.github.io  
-**My Cybersecurity Blog & Portfolio**
+# eryanom.github.io
 
+**My Cybersecurity Blog & Learning Portfolio**
 
+ **Live site:** [eryanom.github.io](https://eryanom.github.io)
 
+This repository powers my personal blog, where I write up what I learn on my way to becoming a **SOC Analyst** and **Cyber Threat Intelligence Analyst**.
 
- **Log Summary**
+##  What You'll Find
 
-**Date:** October 13, 2025  
-**Activity:** First setup of my personal GitHub Pages site.  
-**Goal:** Build a space to document my journey in Cybersecurity and CTF competitions.
+- **Digital Forensics & Incident Response:** study notes and research
+- **Write-ups:** CTF challenges (picoCTF) and TryHackMe rooms
+- **Threat Intelligence:** analysis of threats mapped to MITRE ATT&CK
+- **Home Lab:** documentation of my SOC lab setup
 
-**Progress Highlights:**
-- Created repository `eryanom.github.io` for GitHub Pages hosting.  
-- Added first page: *My First CTF Experience* — documenting my start in **picoCTF**.  
-- Learned how to use Markdown and inline HTML for styling (like red-colored text).  
-- Completed 2 challenges in picoCTF within 2 days — total score **150 points**.  
+##  Built With
 
-**Next Steps:**
-- Add more write-ups for CTF challenges.  
-- Improve page styling using custom CSS.  
-- Expand portfolio section to include projects and tools I’ve built.
+- [Jekyll](https://jekyllrb.com/) with the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme
+- Hosted on GitHub Pages, deployed with GitHub Actions
 
+##  Progress Log
 
-*This repository will serve as my learning log, portfolio, and a way to track progress in my cybersecurity journey.*
+**October 2026: Blog relaunch**
+- Migrated the site to Jekyll + Chirpy for a proper blog layout
+- Published first research post: *Incident Response & Digital Forensics Fundamentals*
+- Refocused the blog on SOC, DFIR and threat intelligence
+
+**October 13, 2025: First setup**
+- Created this repository for GitHub Pages hosting
+- Added my first page, *My First CTF Experience*, documenting my start in picoCTF
+- Learned Markdown and inline HTML for styling
+- Completed 2 picoCTF challenges in 2 days, scoring 150 points
+
+---
+
+*This repository is my learning log and portfolio, tracking my progress in cybersecurity.*
